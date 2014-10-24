@@ -8,5 +8,5 @@ include php
 include mysql
 include www-symlink
 include git
-#include tools
+include tools
 
