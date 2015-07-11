@@ -9,4 +9,5 @@ include mysql
 include www-symlink
 include git
 include tools
-
+include wget
+include phpunit
